@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e3f3b8cc-79c9-46c9-9d92-c15944f104eb",
+    "Name": "JTTestProcess",
+    "ModifiedOnUtc": "\/Date(1698619770000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Test Business process",
+    "DependsOn": []
+  }
+}

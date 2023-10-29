@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "80b2fb69-d598-3f27-53c2-9a8f77b35ae1",
+    "Name": "DevGuide",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1698618836000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/DevGuide.csproj",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}
