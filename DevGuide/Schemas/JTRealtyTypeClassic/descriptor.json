@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f1d0492a-0882-46f6-903a-72c22712df10",
+    "Name": "JTRealtyTypeClassic",
+    "ModifiedOnUtc": "\/Date(1698623733000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Realty type(Classic)",
+    "DependsOn": []
+  }
+}
